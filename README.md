@@ -1,7 +1,3 @@
-### Paxos
-
-------
-
 This is a datagram packet slice framework.
 
 ### Download
